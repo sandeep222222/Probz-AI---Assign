@@ -1,5 +1,20 @@
 # Getting Started with Create React App
 
+
+#Images 
+
+![Screenshot (619)](https://github.com/sandeep222222/Probz-AI---Assign/assets/155237319/ef53dd64-2ea7-4894-ab53-ae2d0f32a0b8)
+
+![Screenshot (620)](https://github.com/sandeep222222/Probz-AI---Assign/assets/155237319/90994c54-2c07-4986-8fa0-110e4d7a9ad1)
+
+![Screenshot (621)](https://github.com/sandeep222222/Probz-AI---Assign/assets/155237319/d4321404-927a-4315-a3b7-ad0344070705)
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
